@@ -4,13 +4,6 @@ A curated collection of the most effective and popular DevOps tools to streamlin
 
 This repository aims to provide a comprehensive list of DevOps tools, along with brief descriptions. Whether you're new to DevOps or looking to optimize your existing workflow, you'll find valuable resources here.
 
-## Contributing
-
-✍️ We welcome contributions! If you know of a great DevOps tool that's not listed here, please submit a pull request with your addition.! Read the [contribution guidelines](https://github.com/techiescamp/devops-tools/blob/main/CONTRIBUTING.md) to know more. 
-
-## Hit the Star! :star:
-
-If you are planning to use this repo for reference, please hit the star. Thanks!
 
 ## Table of Contents
 
